@@ -1,0 +1,131 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "minisat",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-minisat-Debug-3b2d5c397251718912d8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "minisat",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ece650-a4",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "minisat",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ece650-prj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ece650-prj-Debug-c20212d7e179f9158451.json",
+					"name" : "ece650-prj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "minisat-lib-shared::@05cc517457fd809a7ac0",
+					"jsonFile" : "target-minisat-lib-shared-Debug-cd3a2d2c3bd2fc0d6dde.json",
+					"name" : "minisat-lib-shared",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "minisat-lib-static::@05cc517457fd809a7ac0",
+					"jsonFile" : "target-minisat-lib-static-Debug-f8834da0c9de59557dc6.json",
+					"name" : "minisat-lib-static",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "minisat_core::@05cc517457fd809a7ac0",
+					"jsonFile" : "target-minisat_core-Debug-71ca99586fd3e3d7d117.json",
+					"name" : "minisat_core",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "minisat_simp::@05cc517457fd809a7ac0",
+					"jsonFile" : "target-minisat_simp-Debug-385a9ceef22af12f56ec.json",
+					"name" : "minisat_simp",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build",
+		"source" : "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

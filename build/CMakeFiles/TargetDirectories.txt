@@ -1,0 +1,17 @@
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/CMakeFiles/ece650-prj.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/CMakeFiles/edit_cache.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/CMakeFiles/rebuild_cache.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/CMakeFiles/list_install_components.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/CMakeFiles/install.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/CMakeFiles/install/local.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/CMakeFiles/install/strip.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat/CMakeFiles/minisat-lib-static.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat/CMakeFiles/minisat-lib-shared.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat/CMakeFiles/minisat_core.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat/CMakeFiles/minisat_simp.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat/CMakeFiles/edit_cache.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat/CMakeFiles/rebuild_cache.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat/CMakeFiles/list_install_components.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat/CMakeFiles/install.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat/CMakeFiles/install/local.dir
+/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat/CMakeFiles/install/strip.dir

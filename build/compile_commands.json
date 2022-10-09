@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build",
+  "command": "/usr/bin/clang++  -I/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat -std=c++11 -Wall  -pthread -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -o CMakeFiles/ece650-prj.dir/ece650-prj.cpp.o -c /Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/ece650-prj.cpp",
+  "file": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/ece650-prj.cpp"
+},
+{
+  "directory": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat",
+  "command": "/usr/bin/clang++ -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -o CMakeFiles/minisat-lib-static.dir/minisat/utils/Options.cc.o -c /Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/utils/Options.cc",
+  "file": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/utils/Options.cc"
+},
+{
+  "directory": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat",
+  "command": "/usr/bin/clang++ -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -o CMakeFiles/minisat-lib-static.dir/minisat/utils/System.cc.o -c /Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/utils/System.cc",
+  "file": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/utils/System.cc"
+},
+{
+  "directory": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat",
+  "command": "/usr/bin/clang++ -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -o CMakeFiles/minisat-lib-static.dir/minisat/core/Solver.cc.o -c /Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/core/Solver.cc",
+  "file": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/core/Solver.cc"
+},
+{
+  "directory": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat",
+  "command": "/usr/bin/clang++ -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -o CMakeFiles/minisat-lib-static.dir/minisat/simp/SimpSolver.cc.o -c /Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/simp/SimpSolver.cc",
+  "file": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/simp/SimpSolver.cc"
+},
+{
+  "directory": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat",
+  "command": "/usr/bin/clang++ -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dminisat_lib_shared_EXPORTS -I/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -fPIC -o CMakeFiles/minisat-lib-shared.dir/minisat/utils/Options.cc.o -c /Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/utils/Options.cc",
+  "file": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/utils/Options.cc"
+},
+{
+  "directory": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat",
+  "command": "/usr/bin/clang++ -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dminisat_lib_shared_EXPORTS -I/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -fPIC -o CMakeFiles/minisat-lib-shared.dir/minisat/utils/System.cc.o -c /Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/utils/System.cc",
+  "file": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/utils/System.cc"
+},
+{
+  "directory": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat",
+  "command": "/usr/bin/clang++ -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dminisat_lib_shared_EXPORTS -I/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -fPIC -o CMakeFiles/minisat-lib-shared.dir/minisat/core/Solver.cc.o -c /Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/core/Solver.cc",
+  "file": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/core/Solver.cc"
+},
+{
+  "directory": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat",
+  "command": "/usr/bin/clang++ -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dminisat_lib_shared_EXPORTS -I/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -fPIC -o CMakeFiles/minisat-lib-shared.dir/minisat/simp/SimpSolver.cc.o -c /Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/simp/SimpSolver.cc",
+  "file": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/simp/SimpSolver.cc"
+},
+{
+  "directory": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat",
+  "command": "/usr/bin/clang++ -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -o CMakeFiles/minisat_core.dir/minisat/core/Main.cc.o -c /Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/core/Main.cc",
+  "file": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/core/Main.cc"
+},
+{
+  "directory": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/build/minisat",
+  "command": "/usr/bin/clang++ -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -o CMakeFiles/minisat_simp.dir/minisat/simp/Main.cc.o -c /Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/simp/Main.cc",
+  "file": "/Users/vijii/Documents/ECE650/vsasidha-bmkmuthu/project/minisat/minisat/simp/Main.cc"
+}
+]
